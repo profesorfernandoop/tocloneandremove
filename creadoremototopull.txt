@@ -1,0 +1,1 @@
+Tras establecer que la rama local (main) rastree origin/main, con git pull me debería traer este archivo al repositorio local
