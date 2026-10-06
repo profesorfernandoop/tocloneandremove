@@ -1,0 +1,1 @@
+Este archivo está creado con la interfaz de GitHub en el repositorio remoto para después hacer git pull y comprobar que nos traemos los datos
